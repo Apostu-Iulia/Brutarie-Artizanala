@@ -12,3 +12,9 @@ Modificand timpii operatiilor si lista materialelor, acum productia functioneaza
 
 
 Am încercat să implementez un modul urmând câteva tutoriale (https://youtu.be/p7SJW36lqVE și https://youtu.be/kxbPgOLkNxw). A fost prima oară când am folosit PyCharm pentru acest scop. După câteva ore de încercări și numeroase erori, în ciuda faptului că am urmat toți pașii pentru a le rezolva, aplicația a încetat să mai funcționeze complet și nu am reușit să identific exact cauza problemei. În cele din urmă, am reușit să refac aplicația doar după ce am șters toate modificările făcute în PyCharm.După multe încercări, am reușit să implementez modulul, iar acesta apare acum în secțiunea „Aplicații”. Totuși, atunci când încerc să îl activez, întâmpin erori.Eu și colega mea ne-am confruntat cu aceeași problemă. Am încercat să rezolvăm situația dezinstalând și reinstalând aplicația , însă rezultatul nu a fost favorabil.Unele dintre erorile întâmpinate sunt consemnate în documentul Word intitulat Erori.Codurile utilizate pentru implementarea modulului în PyCharm sunt notate în documentul PDF intitulat coduri pycharm.
+
+#Practica de vara-2025
+Facultatea de Automatică, Calculatoare și Electronică – Universitatea din Craiova
+Student:Andrei Oltita Costinela
+Student:Apostu Maria Iulia
+Profesor coordonator: Hurezeanu Bogdan
